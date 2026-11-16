@@ -14,3 +14,4 @@ bash gcc task2.c -o task2 && ./task2
 ### Задача 3 (Попадание в область)
 
 bash gcc task3.c -o task3 && ./task3
+
