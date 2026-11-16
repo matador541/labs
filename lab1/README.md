@@ -15,3 +15,5 @@ bash gcc task2.c -o task2 && ./task2
 
 bash gcc task3.c -o task3 && ./task3
 
+
+
