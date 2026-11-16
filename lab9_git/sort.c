@@ -1,4 +1,4 @@
-// Этот код был изменен внутри ветки master
+// Этот код был объединен из веток master и mybranch
 
 void bubble_sort(int arr[], int n) {
     int i, j, temp;
